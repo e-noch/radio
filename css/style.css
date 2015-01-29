@@ -56,7 +56,7 @@ html{
 .video-container {
     position: relative;
     padding-top: 30px; 
-    padding-bottom: 50%;
+    padding-bottom: 51.25%;
     height: 0; 
     overflow: hidden;
 }
